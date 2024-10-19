@@ -1,7 +1,5 @@
 // components/Footer.jsx
-import React from 'react';
-
-function Footer() {
+export default function Footer() {
   return (
     <footer>
       <p>This fake website example is CC0 — any part of this code may be reused in any way you wish. Original example written by Chris Mills, 2016.</p>
@@ -10,4 +8,3 @@ function Footer() {
   );
 }
 
-export default Footer;
