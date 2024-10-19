@@ -1,7 +1,7 @@
 // components/Main.jsx
 import React from 'react';
 
-function Main() {
+export default function Main() {
   return (
     <main>
       <section>
@@ -12,5 +12,3 @@ function Main() {
     </main>
   );
 }
-
-export default Main;
